@@ -27,7 +27,11 @@ while (age < 70) {
 }
 
 function sayHello() {
+    var annoy = 5
+    While(annoy<10){
     alert("Hello everyone");
+    annoy++
+    }
 }
 
 function showAge() {
